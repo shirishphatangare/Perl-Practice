@@ -1,0 +1,8 @@
+NetId Device ID	API	Site	Device Name	Device IP	Product ID	Device Type	Product Family	Software Type	Software Version	Current Milestone	Current Milestone Date	Next EoX Milestone	Next EoX Date	Serial Number	_x000D_	
+1914161	CDGH	EU	FrCDGHCA13C3sw01	10.43.167.29	WS-C3650-48FD-L	Switches	Cisco Catalyst 3650 Series Switches	IOS-XE	3.6.6E					LIT212043MG	_x000D_	
+1914160	CDGH	EU	FrCDGHCA15C3sw01	10.43.167.30	WS-C3650-48FD-L	Switches	Cisco Catalyst 3650 Series Switches	IOS-XE	3.6.6E					DCB2111C9N9	_x000D_	
+1914159	CDGH	EU	FrCDGHIBMDFsw01	10.43.167.15	WS-C3650-48TD-L	Switches	Cisco Catalyst 3650 Series Switches	IOS-XE	3.6.6E					DCB2115D92D	_x000D_	
+1885890	PNVA	FXE-Field	PNVA-IDF2-s04	172.27.132.176	WS-C2960X-48FPS-L	Switches	Cisco Catalyst 2960-X Series Switches	IOS	15.2(4)E7					DCB191860ZG	_x000D_	
+1885779	PNVA	FXE-Field	PNVA-MDF-s01	172.27.132.164	WS-C2960X-48FPS-L	Switches	Cisco Catalyst 2960-X Series Switches	IOS	15.2(6)E1					DCB213860YW	_x000D_	
+1885780	PNVA	FXE-Field	PNVA-MDF-s02	172.27.132.165	WS-C2960X-48FPS-L	Switches	Cisco Catalyst 2960-X Series Switches	IOS	15.2(6)E1					DCB213861KH	_x000D_	
+1885781	PNVA	FXE-Field	PNVA-MDF-s03	172.27.132.166	WS-C2960X-48FPS-L	Switches	Cisco Catalyst 2960-X Series Switches	IOS	15.2(6)E1					DCB213860XD	_x000D_	

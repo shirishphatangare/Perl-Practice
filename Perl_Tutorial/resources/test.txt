@@ -1,0 +1,13 @@
+lcom.T.tutorialspoint.perl 1.812345 TTT // =
+lcom.U.tutorialspoint.python 2.822345 CCC // |
+com.W.tutorialspoint.C# 5.812345 AAA // *
+com.X.tutorialspoint.C++ 6.815345 BBB // =
+4com.Y.tutorialspoint.Java 3.812545 DDD // |
+gcom.Z.tutorialspoint.jython 4.822645 EEE // *
+hcom.A.tutorialspoint.dns 7.812745 FFF // =
+gcom.B.tutorialspoint.nis 8.842845 GGG // |
+icom.C.tutorialspoint.LDAP 9.862945 HHH // *
+jcom.D.tutorialspoint.redHat 0.812345 III // =
+jcom.D.tutorialspoint.redHat 0.812345 III // = com com
+icom.C.tutorialspoint.LDAP 12.862945 HHH // *
+icom.C.tutorialspoint.LDAP 12.862945 HHH // * LDAP 2.862945 HHH LDAP 0.862945 HHH
